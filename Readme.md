@@ -122,26 +122,26 @@ If you increase the learning rate you can speed up the style transfer, but often
 Look at that! You did it! After running this, in the upper bar of the notebook click on "File" and then "Open". Go to the "/output" directory to see all the saved images. Open "generated_image" to see the generated image! :)
 
 Running for 10 epochs and 100 steps per epoch, you should see something like the image presented below on the right:
-![Content!](images/res3.png)
+![Content!](images/images/res3.png)
 
 ---
 # Result
 
 ### Example 1
 - **Content Image**
-![Content!](images/SakuranoTsubasa.png)
+![Content!](images/images/SakuranoTsubasa.png)
 - **Style Image**
-![Style!](images/BlueStrokes.jpg)
+![Style!](images/images/BlueStrokes.jpg)
 - **Resultant Image**
-![Artistic Result!](images/res2.png)
+![Artistic Result!](images/images/res2.png)
 
 ---
 ### Example 2
 
 - **Content Image**
-![Content!](images/winter-wolf.jpg)
+![Content!](images/images/winter-wolf.jpg)
 - **Style Image**
-![Style!](images/bamboo_forest.jpg)
+![Style!](images/images/bamboo_forest.jpg)
 - **Resultant Image**
-![Artistic Result!](images/res1.png)
+![Artistic Result!](images/images/res1.png)
 
