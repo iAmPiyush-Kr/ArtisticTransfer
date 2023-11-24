@@ -6,8 +6,8 @@ Development of an Adaptable Deep Learning Model for Artistic Style Transfer.
 
 ## 🔗 Quick Links
 * [Overview](#-overview)
-* [Procedure](#-Procedure)
-* [Steps](#-Steps)
+* [Procedure](#-procedure)
+* [Features](#-features)
 * [Getting Started](#-getting-started)
 * [Project Roadmap](#-project-roadmap)
 * [Contributing](#-contributing)
@@ -83,8 +83,6 @@ $$J_{content}(C,G) =  \frac{1}{4 \times n_H \times n_W \times n_C}\sum _{ \text{
 * In order to compute the cost $J_{content}(C,G)$, it might also be convenient to unroll these 3D volumes into a 2D matrix, as shown below.
 * Technically this unrolling step isn't needed to compute $J_{content}$, but it will be good practice for when you do need to carry out a similar operation later for computing the style cost $J_{style}$.
 
-<img src="C:\Users\Piyush Sahay\Desktop\DS Contents\EndToEndProject\NeuralStyleTransfer\BlueStrokes.jpg" style="width:800px;height:400px;">
-
 
 ---
 <a name='4-2-1'></a>
@@ -124,5 +122,26 @@ If you increase the learning rate you can speed up the style transfer, but often
 Look at that! You did it! After running this, in the upper bar of the notebook click on "File" and then "Open". Go to the "/output" directory to see all the saved images. Open "generated_image" to see the generated image! :)
 
 Running for 10 epochs and 100 steps per epoch, you should see something like the image presented below on the right:
+![Content!](images/res3.png)
 
-<img src="BlueStrokes.png" style="width:800px;height:300px;">
+---
+# Result
+
+### Example 1
+- **Content Image**
+![Content!](images/SakuranoTsubasa.png)
+- **Style Image**
+![Style!](images/BlueStrokes.jpg)
+- **Resultant Image**
+![Artistic Result!](images/res2.png)
+
+---
+### Example 2
+
+- **Content Image**
+![Content!](images/winter-wolf.jpg)
+- **Style Image**
+![Style!](images/bamboo_forest.jpg)
+- **Resultant Image**
+![Artistic Result!](images/res1.png)
+
