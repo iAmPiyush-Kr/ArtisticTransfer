@@ -6,8 +6,8 @@ Development of an Adaptable Deep Learning Model for Artistic Style Transfer.
 
 ## 🔗 Quick Links
 * [Overview](#-overview)
-* [Demo](#-demo)
-* [Features](#-features)
+* [Procedure](#-Procedure)
+* [Steps](#-Steps)
 * [Getting Started](#-getting-started)
 * [Project Roadmap](#-project-roadmap)
 * [Contributing](#-contributing)
