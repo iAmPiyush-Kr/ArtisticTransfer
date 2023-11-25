@@ -8,10 +8,8 @@ Development of an Adaptable Deep Learning Model for Artistic Style Transfer.
 * [Overview](#-overview)
 * [Procedure](#-procedure)
 * [Features](#-features)
-* [Getting Started](#-getting-started)
-* [Project Roadmap](#-project-roadmap)
-* [Contributing](#-contributing)
-* [License](#-license)
+* [Getting Started](#-Steps)
+* [Result](#-Result)
 
 ---
 
@@ -115,7 +113,7 @@ $$J_{style}^{[l]}(S,G) = \frac{1}{4 \times {n_C}^2 \times (n_H \times n_W)^2} \s
 ---
 
 <a name='5-6'></a>
-### 5.6 - Train the Model
+### Train the Model
 
 If you increase the learning rate you can speed up the style transfer, but often at the cost of quality.
 
