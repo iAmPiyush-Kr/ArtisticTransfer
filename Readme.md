@@ -8,8 +8,8 @@ Development of an Adaptable Deep Learning Model for Artistic Style Transfer.
 * [Overview](#-overview)
 * [Procedure](#-procedure)
 * [Features](#-features)
-* [Getting Started](#-Steps)
-* [Result](#-Result)
+* [Getting Started](#-steps)
+* [Result](#-result)
 
 ---
 
@@ -33,7 +33,7 @@ Since very early age we are observing how our smartphone caeras are coming up wi
 - Define the content cost function for Neural Style Transfer
 
 ---
-## Steps
+## Getting Started
 ### Transfer Learning
 <a name='4'></a>
 ## Neural Style Transfer (NST)
@@ -123,7 +123,7 @@ Running for 10 epochs and 100 steps per epoch, you should see something like the
 ![Content!](images/res3.png)
 
 ---
-# Result
+## Result
 
 ### Example 1
 - **Content Image**
